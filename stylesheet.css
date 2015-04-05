@@ -1,0 +1,18 @@
+.container	{
+	width: 1080px;
+	margin: auto;
+}
+
+#dialog	{
+	position: relative;
+	top: 50px;
+	margin: auto;
+	background-color: #FFF;
+	border-radius: 5px;
+	padding: 0 0 5px; 0;
+}
+
+#boxtitle	{
+	background-color: #BBB;
+	border-radius: 5px;
+}
