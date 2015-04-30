@@ -1,4 +1,4 @@
 # Cats-Site
-My personal website. This is a website I'm working on.
+My personal website. This website is currently in pre-alpha status and many parts of the site still need to be completed.
 I'm hosting it on Gwiddle.
-NOW ONLINE! http://catsunited.gwiddle.co.uk
+Link - http://catsunited.gwiddle.co.uk
