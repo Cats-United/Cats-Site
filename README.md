@@ -1,5 +1,5 @@
 # CatsUnited Software Site
-This is a site written by me (and others if neccesary) to host a site for my projects.
+This is a site written by me (and others if neccesary) to host a site for my projects. Note that some major changes might happen to the site in the next few weeks.
 Link - http://catsunited.gwiddle.co.uk
 ## 1. Status:
 Frontend: 60%
