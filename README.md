@@ -11,9 +11,9 @@ Frontend: 2%
 Backend: 0%
 #### To-do List (NEW SITE):
 - [x] Create first page: 100%
-- [] Complete layout of main page: 0%
- - [] Frontend of project Creator: 0%
- - [] Backend of Project Creator: 0%
+- [] Complete layout of main page: 80%
+ - [] Frontend of Control Panel: 5%
+ - [] Backend of Control Panel: 0%
 - [] Forum complete: 0%
 - [] Github.io site complete: 25%
 - [] Create News Section: 0%
