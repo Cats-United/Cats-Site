@@ -4,10 +4,10 @@ Link - http://catsunited.gwiddle.co.uk
 
 # IMPORTANT
 
-I am planning to do a major UI change to the current site within a month.
+I am planning to do a major UI change. It will be put onto github on 8/08/15.
 
 ## 1. Status:
-Frontend: 2%
+Frontend: 3%
 Backend: 0%
 #### To-do List (NEW SITE):
 - [x] Create first page: 100%
@@ -35,9 +35,9 @@ Go to [this page](https://github.com/CatsUnitedComputers/Cats-Site/issues/3)
 
 Note: Release dates are in DD/MM/YYYY format.
 - 8/08/2015 - Show screenshots of current work.
-- 15/08/2015 - Current work will be put onto repository.
+- 8/08/2015 - Current work will be put onto repository.
 - Every three days after that, more work will be put in.
-- 1/09/2015 - Backend development starts.
+- 15/08/2015 - Backend development starts.
 - Within 2/09/2015 - Domain Name.
 - 2/09/2015 - Site will be hosted somewhere separate.
 - 1/01/2016 - Bug Checking.
