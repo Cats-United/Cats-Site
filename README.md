@@ -4,7 +4,7 @@ Link - http://catsunited.gwiddle.co.uk
 
 # IMPORTANT
 
-I am planning to do a major UI change. It will be put onto github on 8/08/15.
+The new UI is in! Please post your opinon on the Feedback Issue.
 
 ## 1. Status:
 Frontend: 3%
