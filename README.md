@@ -38,7 +38,6 @@ Note: Release dates are in DD/MM/YYYY format.
 - 8/08/2015 - Current work will be put onto repository.
 - Every three days after that, more work will be put in.
 - 15/08/2015 - Backend development starts.
-- Within 2/09/2015 - Domain Name.
-- 2/09/2015 - Site will be hosted somewhere separate.
+- Within 2/10/2015 - Domain Name.
 - 1/01/2016 - Bug Checking.
-- 21/01/2016 - Sites merge.
+- - 1/02/2016 - Completion.
