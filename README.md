@@ -28,7 +28,7 @@ Backend: 0%
 * Status: Very Active
 * Programming: HTML, CSS, PHP, JS
 
-#### How do I join?
+### How do I join?
 Go to [this page](https://github.com/CatsUnitedComputers/Cats-Site/issues/3)
 
 ## 3. Predicted Release Times
