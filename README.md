@@ -39,7 +39,7 @@ Note: Release dates are in DD/MM/YYYY format.
 - Every three days after that, more work will be put in.
 - Within 2/10/2015 - Domain Name.
 - 1/01/2016 - Bug Checking.
-- - 1/02/2016 - Completion.
+-  1/02/2016 - Completion.
 
 - 12/08/2015 to ~1/10/2015 - Projects section.
 - 1/08/2015 to ~1/09/2015 - Front page.
