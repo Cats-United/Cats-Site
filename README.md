@@ -41,6 +41,8 @@ Note: Release dates are in DD/MM/YYYY format.
 - 1/01/2016 - Bug Checking.
 -  1/02/2016 - Completion.
 
+#### Parts of site:
+
 - 12/08/2015 to ~1/10/2015 - Projects section.
 - 1/08/2015 to ~1/09/2015 - Front page.
 - 1/09/2015 to 7/09/2015 - Forum.
