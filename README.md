@@ -7,13 +7,13 @@ Link - http://catsunited.gwiddle.co.uk
 The new UI is in! Please post your opinon on the Feedback Issue.
 
 ## 1. Status:
-Frontend: 3%
-Backend: 0%
+Frontend: 4%
+Backend: 1%
 #### To-do List (NEW SITE):
 - [x] Create first page: 100%
-- [] Complete layout of main page: 80%
- - [] Frontend of Control Panel: 5%
- - [] Backend of Control Panel: 0%
+- [x] Complete layout of main page: 100% (Pretty much)
+ - [] Frontend of Control Panel: 50%
+ - [] Backend of Control Panel: 5%?
 - [] Forum complete: 0%
 - [] Github.io site complete: 25%
 - [] Create News Section: 0%
