@@ -11,13 +11,13 @@ Frontend: 4%
 Backend: 1%
 #### To-do List (NEW SITE):
 - [x] Create first page: 100%
-- [x] Complete layout of main page: 100% (Pretty much)
+- [x] Complete layout of main page: 60% (May change at any time)
  - [] Frontend of Control Panel: 50%
- - [] Backend of Control Panel: 5%?
+ - [] Backend of Control Panel: 5% (May change rapidly)
 - [] Forum complete: 0%
 - [] Github.io site complete: 25%
 - [] Create News Section: 0%
-- [x] Complete Topbar: 100%
+- [x] Complete Topbar: 100% (May change at any time)
 - [] Search system working: 0%
 - [] Website complete: 2%
 - [] Wiki complete: 10%
@@ -46,5 +46,7 @@ Note: Release dates are in DD/MM/YYYY format.
 - 12/08/2015 to ~1/10/2015 - Projects section.
 - 1/08/2015 to ~1/09/2015 - Front page.
 - 1/09/2015 to 7/09/2015 - Forum.
-- From 1/08/2015 - Wiki.
+- 1/09/2015 - Wiki.
 - ~14/09/2015 to 1/1?/2015
+
+The main wiki will be moved to the main site. That wiki will be hosted by MediaWiki, which is what Wikipedia runs on. The Github wiki will become a Github wiki (I guess :P ).
