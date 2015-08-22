@@ -47,6 +47,6 @@ Note: Release dates are in DD/MM/YYYY format.
 - 1/08/2015 to ~1/09/2015 - Front page.
 - 1/09/2015 to 7/09/2015 - Forum.
 - 1/09/2015 - Wiki.
-- ~14/09/2015 to 1/1?/2015
+- pre-1/08/2015 - 14/09/2015 - Control Panel
 
 The main wiki will be moved to the main site. That wiki will be hosted by MediaWiki, which is what Wikipedia runs on. The Github wiki will become a Github wiki (I guess :P ).
