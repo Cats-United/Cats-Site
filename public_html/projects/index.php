@@ -1,10 +1,5 @@
-<?php
-include_once'/includes/db_connect.php';
-include_once'/assets/cdn/main/php/project-thumb.php';
-/* Analytics go here */
-?>
 <!DOCTYPE HTML>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" manifest="demo.appcache">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 	<head>
 			<?php include'assets/pages/main/php/head.php'; ?>
 	</head>
@@ -13,21 +8,72 @@ include_once'/assets/cdn/main/php/project-thumb.php';
 		<!-- main page -->
 		<div id="display" class="display">
 			<!-- picture goes here -->
-			<div id="title">
-				<h1>Projects</h1>
+			<div id="title" class="software">
+				<h1>CatsUnited - Projects</h1>
+				<br/>
+				<h4>Right now, there <?php ?> on this page.</h4>
 			</div>
 		</div>
 		<div class="container">
 			<div id="content">
-				<table>
+				<table class="software">
 						<ul>
-								<li>
+								<li class="carousel">
 									<thead>
-											<h3>Example</h3>
+											<h3>Featured Projects</h3>
 									</thead>
 									<tbody>
 											<ul>
 													<li>
+															<?php include'/assets/cdn/main/php/project-thumb.php'; ?>
+													</li>
+											</ul>
+									</tbody>
+								</li>
+								<li class="carousel">
+									<thead>
+											<h3>Recent Projects</h3>
+									</thead>
+									<tbody>
+											<ul>
+													<li>
+															<?php include'/assets/cdn/main/php/project-thumb.php'; ?>
+													</li>
+											</ul>
+									</tbody>
+								</li>
+								<li class="carousel">
+									<thead>
+											<h3>All Javascript Projects</h3>
+									</thead>
+									<tbody>
+											<ul>
+													<li>
+															<?php include'/assets/cdn/main/php/project-thumb.php'; ?>
+													</li>
+											</ul>
+									</tbody>
+								</li>
+								<li class="carousel">
+									<thead>
+											<h3>All Java/C++ Projects</h3>
+									</thead>
+									<tbody>
+											<ul>
+													<li>
+															<?php include'/assets/cdn/main/php/project-thumb.php'; ?>
+													</li>
+											</ul>
+									</tbody>
+								</li>
+								<li class="carousel">
+									<thead>
+											<h3>All Python Projects</h3>
+									</thead>
+									<tbody>
+											<ul>
+													<li>
+															<?php include'/assets/cdn/main/php/project-thumb.php'; ?>
 													</li>
 											</ul>
 									</tbody>
