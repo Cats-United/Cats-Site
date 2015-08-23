@@ -4,7 +4,7 @@ Link - http://catsunited.gwiddle.co.uk
 
 # IMPORTANT
 
-The new UI is in! Please post your opinon on the Feedback Issue.
+A login system from a tutorial is waiting to be forked! Click [this!](https://github.com/CatsUnitedComputers/Cats-Site/issues/7)
 
 ## 1. Status:
 Frontend: 4%
