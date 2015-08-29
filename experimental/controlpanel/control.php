@@ -1,7 +1,7 @@
 <!-- CONTROL PANEL -->
 <?php
-include_once 'includes/functions.php';
-include_once'db_connect.php';
+include_once '.includes/functions.php';
+include_once'./incldues/db_connect.php';
 
 sec_session_start();
  
@@ -10,6 +10,15 @@ if (login_check($mysqli) == true) {
 } else {
     $logged = 'out';
 }
+/* TODO:
+*  Be able to import files from your computer and then send that to the server (PHP/HTML/JS) 6/09/15
+*  Create a description page for project page imports (PHP/HTML/CSS/JS) 12/09/15
+*  Get title and extension areas functional, along with code to run JS code and show and download link to Other. (PHP/JS) 12/09/15
+*  Make News Articles functional, plus RSS feeds (PHP/HTML/CSS/JS) 1/10/15
+*  Get carousels running (HTML/CSS/PHP/JS) 1/10/15
+*  Get search feature functional (PHP/JS) 21/10/15
+*/
+
 ?>
 <!DOCTYPE HTML>
 <html>
