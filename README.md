@@ -25,8 +25,14 @@ Backend: 1%
 ## 2. Programmers
 
 #### CatsUnited:
+<img src="https://avatars1.githubusercontent.com/u/11802445?v=3&s=96"></img>
 * Status: Very Active
 * Programming: HTML, CSS, PHP, JS
+
+#### Ealgase
+<img src="https://avatars0.githubusercontent.com/u/11603778?v=3&s=96"></img>
+* Status: N/A
+* Programming: HTML, CSS, JS
 
 ### How do I join?
 Go to [this page](https://github.com/CatsUnitedComputers/Cats-Site/issues/3)
