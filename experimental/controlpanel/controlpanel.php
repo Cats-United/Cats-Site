@@ -2,6 +2,7 @@
 <?php
 include_once '.includes/functions.php';
 include_once'./incldues/db_connect.php';
+include('../vendor/autoload.php'); // for heroku
 
 sec_session_start();
  
