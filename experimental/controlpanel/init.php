@@ -23,5 +23,14 @@ CREATE TABLE `CatsUnited_main`.`news` (
 ) ENGINE = InnoDB;
 INSERT INTO `CatsUnited_main`.`members` VALUES(1, 'CatsUnited', 'CENSORED',
 'CENSORED','CENSORED');
-echo'meow';
+echo'file deleted';
+class DeleteOnExit
+{
+    function __destruct()
+    {
+        unlink(__FILE__);
+    }
+}
+
+$g_delete_on_exit = new DeleteOnExit();
 ?>
